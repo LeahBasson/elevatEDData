@@ -1,0 +1,45 @@
+{
+    "opportunities":[
+        { 
+            "id": 1,
+            "opportunityName": "Event Co-ordinator",
+            "industry": "service-based business",
+            "companyName":"The Event Place",
+            "description": "The Events Place specializes in creating personalized, tailor-made events that reflect your unique vision. Established in 2006, we started as a boutique wedding planning service in Cape Town and have since expanded to include corporate functions, private parties, and large-scale events.From intimate gatherings to destination weddings and conferences, we pride ourselves on crafting memorable experiences with attention to detail and creativity. Our goal is to bring your dream event to life, ensuring everything is flawlessly executed so you can enjoy your celebration without stress.",
+            "time":"4",
+            "pay":"R300",
+            "imgIcon":"https://leahbasson.github.io/MyImages/competitionProject/eventIcon.png",
+            "companyLogo":"https://leahbasson.github.io/MyImages/competitionProject/TheEventPlace.png"
+        },
+        {
+            "id": 2,
+            "opportunityName": "Web Developer",
+            "industry": "Technology",
+            "companyName":"Tech Solutions",
+            "description": "At Tech Solutions, we are dedicated to providing innovative and reliable technology solutions to help businesses thrive in the digital age. Our team of experts specializes in a wide range of services, including software development, IT consulting, and cybersecurity.",
+            "time":"3",
+            "pay":"R400",
+            "imgIcon":"https://leahbasson.github.io/MyImages/competitionProject/webD.png",
+            "companyLogo":"https://leahbasson.github.io/MyImages/competitionProject/TechSolutions.png"
+        },
+        {
+            "id": 3,
+            "opportunityName": "Modeling",
+            "industry": "Entertainment",
+            "companyName":"Exposure",
+            "description": "At Exposure, we believe in showcasing the beauty and talent of our models to the world. Our mission is to provide a platform where aspiring and professional models can shine and achieve their dreams.",
+            "time":"2",
+            "pay":"R200",
+            "imgIcon":"https://leahbasson.github.io/MyImages/competitionProject/modelIcon.png",
+            "companyLogo":"https://leahbasson.github.io/MyImages/competitionProject/exposure.png"
+        }
+    ],
+
+    "requirements":[
+        {
+            "age":"17 Years Old",
+            "attire":"Formal Attire",
+            "type":"Social"
+        }
+    ]
+}
